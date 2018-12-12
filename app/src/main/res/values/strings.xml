@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="info"><![CDATA[This app uses text-to-speech & speech-to-text features]]></string>
+    <string name="txtAppear">Your spoken text will appear here..</string>
+    <string name="txtTap">Tap on mic!</string>
+    <string name="txtPhone">Enter text that will be read by phone</string>
+    <string name="speak">Speak</string>
+    <string name="stop">stop</string>
+    <string name="clear">clear</string>
+</resources>
